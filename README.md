@@ -2,7 +2,7 @@
 
 ### iOS Project - SwiftUI
 
-Grid View for Apple Frameworks with a short description for each framework and link to developer.apple.com for more informations.
+List / Grid View for Apple Frameworks with a short description for each framework and link to developer.apple.com for more informations.
 Supports Dark and Light mode
 
 Code follows @SAllen0400 style guide. 
