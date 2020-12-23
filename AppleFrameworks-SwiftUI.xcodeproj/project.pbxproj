@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9933E52225937B6500731060 /* FrameworkGridViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9933E52125937B6500731060 /* FrameworkGridViewModel.swift */; };
 		99752ECF2593763000A348B9 /* FrameworkDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99752ECE2593763000A348B9 /* FrameworkDetailView.swift */; };
 		99752ED3259377FE00A348B9 /* AFButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99752ED2259377FE00A348B9 /* AFButton.swift */; };
 		99D5133B2592486500ABDB5C /* AppleFrameworks_SwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99D5133A2592486500ABDB5C /* AppleFrameworks_SwiftUIApp.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9933E52125937B6500731060 /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
 		99752ECE2593763000A348B9 /* FrameworkDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailView.swift; sourceTree = "<group>"; };
 		99752ED2259377FE00A348B9 /* AFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AFButton.swift; sourceTree = "<group>"; };
 		99D513372592486500ABDB5C /* AppleFrameworks-SwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AppleFrameworks-SwiftUI.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -60,6 +62,7 @@
 			children = (
 				99D5133A2592486500ABDB5C /* AppleFrameworks_SwiftUIApp.swift */,
 				99D5134D25924ADC00ABDB5C /* FrameworkGridView.swift */,
+				9933E52125937B6500731060 /* FrameworkGridViewModel.swift */,
 				99D5134A2592497500ABDB5C /* Framework.swift */,
 				99752ECE2593763000A348B9 /* FrameworkDetailView.swift */,
 				99752ED2259377FE00A348B9 /* AFButton.swift */,
@@ -152,6 +155,7 @@
 				99D5134B2592497500ABDB5C /* Framework.swift in Sources */,
 				99752ED3259377FE00A348B9 /* AFButton.swift in Sources */,
 				99D5133B2592486500ABDB5C /* AppleFrameworks_SwiftUIApp.swift in Sources */,
+				9933E52225937B6500731060 /* FrameworkGridViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
